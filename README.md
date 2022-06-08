@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmednegm89
 - 👀 I’m interested in Coding and Football
-- 🌱 I’m currently learning javaScript
+-
 - 📫 How to reach me ahmed88gamy99@gmail.com
 
 <!---
